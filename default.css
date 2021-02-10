@@ -10,7 +10,7 @@
     --btnColor:black; 
 }
 body *{
-    transition: 2s;
+    transition: 0.5s;
 }
 html,body{
     padding: 0;
